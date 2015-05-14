@@ -13,15 +13,31 @@
 /*.navbar .nav {
   float: right; }*/
 
-/* Jekyll Bootstrap Colors */
-h1, h2, h3, h4 {
-  color: #f22430;
-}
+
 #footer {
   background-color: #fdcd60;
 }
 
+body
+{
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  letter-spacing: -0.02em;
+  font-weight: 400;
+  font-style: normal;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  color: rgba(0,0,0,0.8);
+  font-size: 18px;
+  line-height: 1.4;
+}
 
+h1
+{
+  font-family: "Lucida Grande","Lucida Sans Unicode","Lucida Sans",Geneva,Verdana,sans-serif;
+  font-size:60px;
+  font-weight: bold;
+  letter-spacing: -0.02em;
+}
 
 /* posts index */
 .post > h3.title {
