@@ -39,6 +39,11 @@ h1
   letter-spacing: -0.02em;
 }
 
+.footnotes
+{
+  font-size: 12px;
+}
+
 /* posts index */
 .post > h3.title {
   position: relative;
