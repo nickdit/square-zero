@@ -7,6 +7,7 @@ tags : [cob, swale, rainwater, pipes]
 {% include JB/setup %}
 
 ## Introduction 
+[TODO]
 
 ## Steps overview
 1. Mark the perimeter
@@ -19,6 +20,7 @@ tags : [cob, swale, rainwater, pipes]
 1. Stones and gravel are perfect in the cob mix. It's just not comfortable to tread with bare feet[^evans-gravel].
 
 ### Jar shake tests
+[TODO]
 
 ### Test bricks[^evans-bricks]
 1. Mix a small batch of cob with the materials you intend to use, without straw.
@@ -31,6 +33,20 @@ tags : [cob, swale, rainwater, pipes]
 8. Try breaking a block with straw by twisting it between two hands. It should be impossible.
 
 
+### Swale
+[TODO]
+
+#### Planting clover
+
+[TODO: rewrite]
+1. Plant in the fall
+2. Use a cereal grain as a cover crop.
+3. Mow the next spring with the cereal begins to shade out the clover.
+4. Every time your clover hits about 12", mow it back to 6"-8" and try to do it before a rain.
+5. If your weeds outgrow your clover, mow to keep the weeds from going to seed.
+6. Consider mowing your clover in strips so that if you get a dry spell, deer still have food.
+
+(plant in spring :S http://www.outsidepride.com/resources/planting/clover_instructions.html)
 
 
 ### References
