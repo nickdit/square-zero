@@ -20,7 +20,7 @@
 3. Add straw to the rest of the mix, form similar blocks.
 4. Dry the bricks in the sun. It might take several days.
 5. Brake one brick in half, if it's not dry yet, leave the rest a few more days.
-6. Surface craking indicates too much clay.
+6. Surface cracking indicates too much clay.
 7. Try scratching the brick with a knife. If they score deeply or crumble, they are not hard enough.
 8. Try breaking a block with straw by twisting it between two hands. It should be impossible.
 
