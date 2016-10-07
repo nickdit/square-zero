@@ -8,6 +8,10 @@
 4. Dig hole for composting toilet.
 5. Build composting toilet walls.
 
+### Replanteo
+#### Materiales necesarios para el replanteo
+
+
 ### Finding material
 1. Stones and gravel are perfect in the cob mix. It's just not comfortable to tread with bare feet[^evans-gravel].
 
