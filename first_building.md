@@ -13,7 +13,7 @@
 * Manguerita transparente para pasar nivel (o un nivel de cuerda)
 * Serrucho 
 * Martillo pesado
-* 
+* Cuerda: (12+ )  metros
 
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar):
@@ -37,7 +37,16 @@
   3. Una persona se ubica en la estaca original con una de las puntas de la manguera y la otra persona en la estaca a la cual se quiere trasladar el nivel.
   4. La segunda persona levanta o baja el palo, paralelo a la estaca, siguiendo indicaciones de la primera persona (la que está junto a la estaca inicial), hasta que el nivel de agua de la manguera coincida con el nivel marcado en la estaca.
   5. En ese momento la segunda persona realiza una marca de nivel en la segunda estaca. 
-4.  
+4. Colocar una cuerda tensa entre las dos marcas en las estacas.  
+5. Armar una escuadra con cuerda
+  1. Medir 12.5 metros de cuerda y cortar
+  2. Hacer un nudo en las puntas
+  3. Medir 3 metros desde el nudo y hacer otro nudo.
+  4. Hacer un tercer nudo a 4 metros del segundo.
+  5. Medir 5 metros y atar ese punto al primer nudo. 
+5. Marcar la tercera esquina
+  1. Estirando el lado más corto paralelamente a la cuerda en las estacas, tensar el resto de los lados de la escuadra de cuerda, ubicando el ángulo recto sobre una de las estacas.
+  2. 
 
 
 
