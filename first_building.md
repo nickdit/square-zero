@@ -58,6 +58,7 @@
   1. Cortar 12 estacas más. 
   2. Extender cada una de las diagonales 2 metros hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
+  4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas. 
 
 
 
