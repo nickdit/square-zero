@@ -66,6 +66,9 @@
   3. Atornillar en el otro poste, verificando con un nivel.
   4. Agregar un segundo tornillo en el primer poste.
   5. Repetir con las otras 7 tablas.
+11. Cuerdas finales
+  1. Ubicar nuevas cuerdas en las direcciones de cada lado entre las tablas opuestas exteriores. Estas cuerdas deben coincidir exactamente con las existentes de los interiores y cruzarse en las esquinas de los postes iniciales. 
+  2. Con un serrucho, hacer una muesca sobre el punto en cada tabla en que debe quedar la cuerda y atar.
 
 
 
