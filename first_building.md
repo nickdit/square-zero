@@ -10,7 +10,7 @@
 
 ### Replanteo
 #### Herramientas necesarias para el replanteo
-* Manguerita transparente para pasar nivel.
+* Manguerita transparente para pasar nivel (o un nivel de cuerda)
 * Serrucho 
 * Martillo pesado
 * 
@@ -30,7 +30,8 @@
 2.  Marcar segunda esquina (a lo largo)
   1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto.
   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.
-  3. 
+  3. Enterrar la estaca.
+3.  
 
 
 
