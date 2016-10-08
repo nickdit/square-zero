@@ -45,8 +45,11 @@
   4. Hacer un tercer nudo a 4 metros del segundo.
   5. Medir 5 metros y atar ese punto al primer nudo. 
 5. Marcar la tercera esquina
-  1. Estirando el lado más corto paralelamente a la cuerda en las estacas, tensar el resto de los lados de la escuadra de cuerda, ubicando el ángulo recto sobre una de las estacas.
-  2. 
+  1. Preparar dos estacas más con el mismo criterio que las anteriores.
+  2. Estirando el lado de 4 metros paralelamente a la cuerda en las estacas, tensar el resto de los lados de la escuadra de cuerda, ubicando el ángulo recto sobre una de las estacas.
+  3. Marcar el punto al final del lado de 3 metros con una estaca temporal.
+  4. Medir 2.87 metros sobre ese lado y marcar con una estaca la nueva esquina.
+  5. Retirar la estaca temporal.
 
 
 
