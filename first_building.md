@@ -10,7 +10,7 @@
 
 ### Replanteo
 #### Materiales necesarios para el replanteo
-* Tirantes de 2x4:
+* Tirantes de 2x4 (sin cepillar):
 * Tablas de 1x6 (sin cepillar): 
 * 
 
