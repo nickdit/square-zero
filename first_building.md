@@ -9,6 +9,9 @@
 5. Build composting toilet walls.
 
 ### Replanteo
+#### Herramientas necesarias para el replanteo
+* Manguerita transparente para pasar nivel.
+
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar):
 * Tablas de 1x6 (sin cepillar): 
