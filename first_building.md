@@ -32,7 +32,12 @@
   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.
   3. Enterrar la estaca.
 3. Pasar el nivel a la segunda estaca
-  1.  
+  1. Atar la manguera transparente a dos palos de ~1m en dos puntos a cada uno, para que la manguera quede paralela al palo.
+  2. Llenar la manguera con agua intentando evitar que queden burbujas de aire.
+  3. Una persona se ubica en la estaca original con una de las puntas de la manguera y la otra persona en la estaca a la cual se quiere trasladar el nivel.
+  4. La segunda persona levanta o baja el palo, paralelo a la estaca, siguiendo indicaciones de la primera persona (la que está junto a la estaca inicial), hasta que el nivel de agua de la manguera coincida con el nivel marcado en la estaca.
+  5. En ese momento la segunda persona realiza una marca de nivel en la segunda estaca. 
+4.  
 
 
 
