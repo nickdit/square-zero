@@ -20,6 +20,8 @@
   2. Hacerle una punta con un serrucho para que se entierre más fácil.
   3. Ubicar la esquina del dormi que se encuentre más alta en el terreno. Si la diferencia en altura es poca, cualquier esquina sirve. 
   4. Clavar la estaca dejando 40cm fuera de la tierra.
+  5. Medir y marcar en la estaca 20cm desde el suelo.
+2.  
 
 
 
