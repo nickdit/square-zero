@@ -31,7 +31,8 @@
   1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto.
   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.
   3. Enterrar la estaca.
-3.  
+3. Pasar el nivel a la segunda estaca
+  1.  
 
 
 
