@@ -58,7 +58,14 @@
   1. Cortar 12 estacas más. 
   2. Extender cada una de las diagonales 2 metros hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
-  4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas. 
+  4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas.
+  5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
+10. Armar "eles" con tablas en cada una de las esquinas 
+  1. Cortar 8 tablas de ~1.2 metro cada una
+  2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia. 
+  3. Atornillar en el otro poste, verificando con un nivel.
+  4. Agregar un segundo tornillo en el primer poste.
+  5. Repetir con las otras 7 tablas.
 
 
 
