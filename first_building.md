@@ -51,7 +51,9 @@
   4. Medir 2.87 metros sobre ese lado y marcar con una estaca la nueva esquina.
   5. Retirar la estaca temporal.
 6. Marcar la cuatro esquinas.
-  1. Desde la otra estaca (ubicada sobre el lado de 4.4m), repetir el proceso de escuadra y ubicar la cuarta estaca.
+  1. Preparar otra estaca.
+  2. Desde la otra estaca (ubicada sobre el lado de 4.4m), repetir el proceso de escuadra y ubicar la cuarta estaca.
+7. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida.
 
 
 
