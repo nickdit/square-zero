@@ -77,7 +77,7 @@
 2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
 3. Cavar una zanja de 10 cm de profundidad y 20 cm de ancho siguiendo las referencias de las cuerdas.
 3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
-4. 
+4. Cavar pozos de 60cm de profundidad en cada esquina
 
 
 
