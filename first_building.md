@@ -75,6 +75,7 @@
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
 ### Cimientos y encadenado
+#### Herramientas
 
 #### Materiales
 
