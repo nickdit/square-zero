@@ -21,7 +21,7 @@
 * Tablas de 1x6 (sin cepillar): 8 metros
 * Tornillos de madera de ~6cm: 80.
 
-#### Paso a paso
+#### Instrucciones
 1. Marcar primera esquina del dormi [Esquina norte en nuestro caso]
   1. Cortar una estaca de 2x4 a 80cm.
   2. Hacerle una punta con un serrucho para que se entierre más fácil.
@@ -75,6 +75,10 @@
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
 ### Cimientos y encadenado
+
+#### Materiales
+
+#### Instrucciones
 1. Pozos y zanjas
   1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho.
   2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
