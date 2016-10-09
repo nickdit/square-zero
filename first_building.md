@@ -42,19 +42,19 @@
   2. Medir 2.87 metros de cuerda desde la punta atada y hacer un nudo.
   2. Medir 5.25 metros [sqr(4.4^2 + 2.87^2)] de cuerda.
   3. Atar ese otro extremo a la primera estaca.
-5. Marcar la tercera esquina
+6. Marcar la tercera esquina
   1. Usar el nudo intermedio para marcar el lugar de la tercera estaca. Asegurarse que los dos lados del triángulo de cuerda estén tensos. Medir a nivel y bajar con plomada si hay mucho desnivel.
   1. Preparar una estaca más con el mismo criterio que las anteriores. [~1.7m]
   2. Clavar la estaca.
-6. Marcar la cuarta esquina.
+7. Marcar la cuarta esquina.
   1. Preparar otra estaca.
   2. Desde la primera estaca (ubicada sobre el lado de 4.4m), repetir el proceso de escuadra y ubicar la cuarta estaca.
-7. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida. [~5.25m]
-8. Referencias exteriores
+8. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida. [~5.25m]
+9. Referencias exteriores
   1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares. 
   2. Extender cada una de las diagonales 2 metros hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
-  4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas.
+  4. Apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas.
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
 10. Armar "eles" con tablas en cada una de las esquinas 
   1. Cortar 8 tablas de ~2 metros cada una
