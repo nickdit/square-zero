@@ -18,7 +18,7 @@
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar):
 * Tablas de 1x6 (sin cepillar): 
-* 
+
 #### Paso a paso
 1. Marcar primera esquina del dormi
   1. Cortar una estaca de 2x4 a 80cm.
@@ -75,6 +75,8 @@
   5. Marcar con cal o harina los límites del encadenado (aproximadamente).
 
 ### Cimientos y encadenado
+1. 
+
 
 
 
