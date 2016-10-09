@@ -72,12 +72,11 @@
   3. Sacar primero la capa de suelo superior y separarla para la huerta.
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia la parte baja.
 
-  3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
-  4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
-  5. Marcar con cal o harina los límites del encadenado (aproximadamente).
-
 ### Cimientos y encadenado
-1. 
+1. Medir 20 cm hacia adentro del dormi y hacer otra marca.
+2. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
+3. Marcar con cal o harina los límites del encadenado (aproximadamente).
+
 
 
 
