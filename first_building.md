@@ -74,10 +74,12 @@
   3. Sacar primero la capa de suelo superior y separarla para la huerta.
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
-### Cimientos y encadenado
+### Cimientos
 #### Herramientas
 
 #### Materiales
+Varillas de hierro de 8mm: 
+Varillas de hierro de 4mm:
 
 #### Instrucciones
 1. Pozos y zanjas
