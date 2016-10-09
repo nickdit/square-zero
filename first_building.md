@@ -42,10 +42,9 @@
   2. Medir 2.87 metros de cuerda desde la punta atada y hacer un nudo.
   2. Medir 5.25 metros [sqr(4.4^2 + 2.87^2)] de cuerda.
   3. Atar ese otro extremo a la primera estaca.
-  4. Hacer un tercer nudo a 4 metros del segundo.
-  5. Medir 5 metros y atar ese punto al primer nudo. 
 5. Marcar la tercera esquina
-  1. Preparar dos estacas más con el mismo criterio que las anteriores.
+  1. Usar el nudo intermedio para marcar el lugar de la tercera estaca. Medir a nivel y bajar con plomada si hay mucho desnivel.
+  1. Preparar una estaca más con el mismo criterio que las anteriores.
   2. Estirando el lado de 4 metros paralelamente a la cuerda en las estacas, tensar el resto de los lados de la escuadra de cuerda, ubicando el ángulo recto sobre una de las estacas.
   3. Marcar el punto al final del lado de 3 metros con una estaca temporal.
   4. Medir 2.87 metros sobre ese lado y marcar con una estaca la nueva esquina.
