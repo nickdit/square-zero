@@ -20,7 +20,7 @@
 * Tablas de 1x6 (sin cepillar): (16 + ) metros
 
 #### Paso a paso
-1. Marcar primera esquina del dormi
+1. Marcar primera esquina del dormi [Esquina norte en nuestro caso]
   1. Cortar una estaca de 2x4 a 80cm.
   2. Hacerle una punta con un serrucho para que se entierre más fácil.
   3. Ubicar la esquina del dormi que se encuentre más alta en el terreno. Si la diferencia en altura es poca, cualquier esquina sirve. 
