@@ -84,7 +84,7 @@ Varillas de hierro de 4mm:
 #### Instrucciones
 1. Pozos y zanjas
   1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho.
-  2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
+  2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado.
   3. Cavar una zanja de 10 cm de profundidad y 20 cm de ancho siguiendo las referencias de las cuerdas.
   3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
   4. Cavar pozos de 60cm de profundidad en cada esquina.
