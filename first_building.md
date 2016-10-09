@@ -40,8 +40,8 @@
 5. Armar una escuadra con cuerda
   1. Atar la cuerda en la segunda estaca.
   2. Medir 2.87 metros de cuerda desde la punta atada y hacer un nudo.
-  2. Medir 5.25 metros [sqr(4.4^2 + 2.87^2)
-  3. Medir 3 metros desde el nudo y hacer otro nudo.
+  2. Medir 5.25 metros [sqr(4.4^2 + 2.87^2)] de cuerda.
+  3. Atar ese otro extremo a la primera estaca.
   4. Hacer un tercer nudo a 4 metros del segundo.
   5. Medir 5 metros y atar ese punto al primer nudo. 
 5. Marcar la tercera esquina
