@@ -14,10 +14,12 @@
 * Serrucho 
 * Martillo pesado
 * Cuerda: ~50 metros
+* Pala y pico
 
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar): 60 metros
 * Tablas de 1x6 (sin cepillar): 8 metros
+* Tornillos de madera de ~6cm: 80.
 
 #### Paso a paso
 1. Marcar primera esquina del dormi [Esquina norte en nuestro caso]
