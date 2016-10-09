@@ -58,7 +58,7 @@
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
 10. Armar "eles" con tablas en cada una de las esquinas.
   1. Cortar 8 tablas de ~2 metros cada una
-  2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia. 
+  2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia y que las estacas queden del lado exterior. 
   3. Atornillar en el otro poste, verificando con un nivel.
   4. Agregar un segundo tornillo en el primer poste.
   5. Repetir con las otras 7 tablas.
