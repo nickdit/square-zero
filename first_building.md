@@ -16,7 +16,7 @@
 * Cuerda: ~50 metros
 
 #### Materiales necesarios para el replanteo
-* Tirantes de 2x4 (sin cepillar): 20 metros
+* Tirantes de 2x4 (sin cepillar): 60 metros
 * Tablas de 1x6 (sin cepillar): (16 + ) metros
 
 #### Paso a paso
@@ -73,9 +73,9 @@
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
 ### Cimientos y encadenado
-1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho..
+1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho.
 2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
-3. Marcar con cal o harina los límites del encadenado (aproximadamente).
+3. 
 
 
 
