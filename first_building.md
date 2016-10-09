@@ -70,7 +70,7 @@
   1. Cortar una madera de 2x4 de referencia a 1m. [TODO: Explicar como decidir la altura a la que nivelar y calcular este poste de referencia]
   2. Agregando cuerdas temporales entre las tablas y usando la madera de referencia, nivelar todo el terreno entre las esquinas exteriores. La madera de referencia debe entrar justo entre el nivel final del suelo y la cuerda.
   3. Sacar primero la capa de suelo superior y separarla para la huerta.
-  4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia la parte baja.
+  4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
 ### Cimientos y encadenado
 1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho..
