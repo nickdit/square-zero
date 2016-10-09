@@ -27,7 +27,7 @@
   4. Clavar la estaca dejando 40cm fuera de la tierra.
   5. Medir y marcar en la estaca 20cm desde el suelo.
 2.  Marcar segunda esquina (a lo largo)
-  1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto.
+  1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto. Si hay mucho desnivel, lo ideal es medir con un nivel, levantando la cinta métrica hasta quede nivelada y bajar el punto con una plomada. 
   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.
   3. Enterrar la estaca.
 3. Pasar el nivel a la segunda estaca
