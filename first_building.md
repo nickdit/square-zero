@@ -56,7 +56,7 @@
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
   4. Apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas. Usar tornillos, no clavar para evitar mover de lugar las estacas.
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
-10. Armar "eles" con tablas en cada una de las esquinas 
+10. Armar "eles" con tablas en cada una de las esquinas.
   1. Cortar 8 tablas de ~2 metros cada una
   2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia. 
   3. Atornillar en el otro poste, verificando con un nivel.
