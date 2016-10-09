@@ -16,8 +16,8 @@
 * Cuerda: ~50 metros
 
 #### Materiales necesarios para el replanteo
-* Tirantes de 2x4 (sin cepillar):
-* Tablas de 1x6 (sin cepillar): 
+* Tirantes de 2x4 (sin cepillar): 20 metros
+* Tablas de 1x6 (sin cepillar): (9.6 + ) metros
 
 #### Paso a paso
 1. Marcar primera esquina del dormi
