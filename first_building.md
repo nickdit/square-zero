@@ -70,6 +70,7 @@
   1. Ubicar nuevas cuerdas en las direcciones de cada lado entre las tablas opuestas exteriores. Estas cuerdas deben coincidir exactamente con las existentes de los interiores y cruzarse en las esquinas de los postes iniciales. 
   2. Con un serrucho, hacer una muesca sobre el punto en cada tabla en que debe quedar la cuerda y atar.
   3. En este momento se pueden sacar los postes interiores.
+  4. Limpiar el terreno sacando la vegetación.
   3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
   4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
   5. Marcar con cal o harina
