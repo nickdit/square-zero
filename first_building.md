@@ -67,7 +67,7 @@
   2. Con un serrucho, hacer una muesca sobre el punto en cada tabla en que debe quedar la cuerda y atar.
   3. En este momento se pueden sacar los postes interiores.
 12. Nivelar
-  13. Cortar un poste de referencia a 1m
+  13. Cortar un poste de referencia a 1m. [Explicar como decidir la altura a la que nivelar y calcular este poste de referencia]
   4. Limpiar el terreno sacando la vegetación.
   3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
   4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
