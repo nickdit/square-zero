@@ -50,7 +50,7 @@
   3. Marcar el punto al final del lado de 3 metros con una estaca temporal.
   4. Medir 2.87 metros sobre ese lado y marcar con una estaca la nueva esquina.
   5. Retirar la estaca temporal.
-6. Marcar la cuarta esquina
+6. Marcar la cuarta esquina.
   1. Preparar otra estaca.
   2. Desde la otra estaca (ubicada sobre el lado de 4.4m), repetir el proceso de escuadra y ubicar la cuarta estaca.
 7. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida.
@@ -69,6 +69,7 @@
 11. Cuerdas finales
   1. Ubicar nuevas cuerdas en las direcciones de cada lado entre las tablas opuestas exteriores. Estas cuerdas deben coincidir exactamente con las existentes de los interiores y cruzarse en las esquinas de los postes iniciales. 
   2. Con un serrucho, hacer una muesca sobre el punto en cada tabla en que debe quedar la cuerda y atar.
+  3. En este momento se pueden sacar los postes interiores.
   3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
   4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
   5. Marcar con cal o harina
