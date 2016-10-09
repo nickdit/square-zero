@@ -51,7 +51,7 @@
   2. Desde la primera estaca (ubicada sobre el lado de 4.4m), repetir el proceso de escuadra y ubicar la cuarta estaca.
 7. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida. [~5.25m]
 8. Referencias exteriores
-  1. Cortar 12 estacas más. 
+  1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares. 
   2. Extender cada una de las diagonales 2 metros hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
   4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas.
