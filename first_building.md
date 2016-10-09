@@ -44,7 +44,7 @@
   3. Atar ese otro extremo a la primera estaca.
 6. Marcar la tercera esquina
   1. Usar el nudo intermedio para marcar el lugar de la tercera estaca. Asegurarse que los dos lados del triángulo de cuerda estén tensos. Medir a nivel y bajar con plomada si hay mucho desnivel.
-  1. Preparar una estaca más con el mismo criterio que las anteriores. [~1.7m]
+  1. Preparar una estaca más con el mismo criterio que las anteriores. [~1.9m]
   2. Clavar la estaca.
 7. Marcar la cuarta esquina.
   1. Preparar otra estaca.
