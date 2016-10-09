@@ -52,7 +52,7 @@
 8. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida. [~5.25m]
 9. Referencias exteriores
   1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares. 
-  2. Extender cada una de las diagonales ~2 metros [=1.82m hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
+  2. Extender cada una de las diagonales ~2 metros [=1.82m] hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1 metro en paralelo a cada lado y poner otras estacas en cada punto. 
   4. Apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas. Usar tornillos, no clavar para evitar mover de lugar las estacas.
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
