@@ -73,11 +73,13 @@
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
 ### Cimientos y encadenado
-1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho.
-2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
-3. Cavar una zanja de 10 cm de profundidad y 20 cm de ancho siguiendo las referencias de las cuerdas.
-3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
-4. Cavar pozos de 60cm de profundidad en cada esquina
+1. Pozos y zanjas
+  1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho.
+  2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
+  3. Cavar una zanja de 10 cm de profundidad y 20 cm de ancho siguiendo las referencias de las cuerdas.
+  3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
+  4. Cavar pozos de 60cm de profundidad en cada esquina.
+5. 
 
 
 
