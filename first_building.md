@@ -9,14 +9,14 @@
 5. Build composting toilet walls.
 
 ### Replanteo
-#### Herramientas necesarias para el replanteo
+#### Herramientas 
 * Manguerita transparente para pasar nivel (o un nivel de cuerda)
 * Serrucho 
 * Martillo pesado
 * Cuerda: ~50 metros
 * Pala y pico
 
-#### Materiales necesarios para el replanteo
+#### Materiales 
 * Tirantes de 2x4 (sin cepillar): 60 metros
 * Tablas de 1x6 (sin cepillar): 8 metros
 * Tornillos de madera de ~6cm: 80.
