@@ -17,7 +17,7 @@
 
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar): 60 metros
-* Tablas de 1x6 (sin cepillar): (8 + ) metros
+* Tablas de 1x6 (sin cepillar): 8 metros
 
 #### Paso a paso
 1. Marcar primera esquina del dormi [Esquina norte en nuestro caso]
