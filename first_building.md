@@ -73,7 +73,7 @@
   4. Limpiar el terreno sacando la vegetación.
   3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
   4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
-  5. Marcar con cal o harina
+  5. Marcar con cal o harina los límites del encadenado (aproximadamente).
 
 
 
