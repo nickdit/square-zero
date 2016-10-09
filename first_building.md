@@ -17,7 +17,7 @@
 
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar): 20 metros
-* Tablas de 1x6 (sin cepillar): (9.6 + ) metros
+* Tablas de 1x6 (sin cepillar): (16 + ) metros
 
 #### Paso a paso
 1. Marcar primera esquina del dormi
@@ -60,7 +60,7 @@
   4. Apuntalar con tablas en las dos direcciones hacia afuera cada una de los 12 estacas.
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
 10. Armar "eles" con tablas en cada una de las esquinas 
-  1. Cortar 8 tablas de ~1.2 metro cada una
+  1. Cortar 8 tablas de ~2 metros cada una
   2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia. 
   3. Atornillar en el otro poste, verificando con un nivel.
   4. Agregar un segundo tornillo en el primer poste.
