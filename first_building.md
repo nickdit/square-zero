@@ -73,8 +73,8 @@
   4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia la parte baja.
 
 ### Cimientos y encadenado
-1. Medir 20 cm hacia adentro del dormi y hacer otra marca.
-2. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
+1. Sobre cada tabla, partiendo desde la marca serruchada, medir 20 cm hacia adentro del dormi y hacer otra marca con serrucho..
+2. Tirar cuerdas desde ambas marcas para delimitar el ancho de la viga de encadenado (o 'sobrecimiento').
 3. Marcar con cal o harina los límites del encadenado (aproximadamente).
 
 
