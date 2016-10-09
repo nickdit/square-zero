@@ -13,7 +13,7 @@
 * Manguerita transparente para pasar nivel (o un nivel de cuerda)
 * Serrucho 
 * Martillo pesado
-* Cuerda: (12+ )  metros
+* Cuerda: ~50 metros
 
 #### Materiales necesarios para el replanteo
 * Tirantes de 2x4 (sin cepillar):
