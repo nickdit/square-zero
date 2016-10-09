@@ -19,7 +19,6 @@
 * Tirantes de 2x4 (sin cepillar):
 * Tablas de 1x6 (sin cepillar): 
 * 
-
 #### Paso a paso
 1. Marcar primera esquina del dormi
   1. Cortar una estaca de 2x4 a 80cm.
@@ -74,6 +73,8 @@
   3. Medir 20 cm hacia adentro del dormi y hacer otra marca.
   4. Tirar cuerdas desde ambas marcas para delimitar el ancho del encadenado (o 'sobrecimiento').
   5. Marcar con cal o harina los límites del encadenado (aproximadamente).
+
+### Cimientos y encadenado
 
 
 
