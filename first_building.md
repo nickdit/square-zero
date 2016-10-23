@@ -12,9 +12,10 @@
 #### Herramientas 
 * Manguerita transparente para pasar nivel (o un nivel de cuerda)
 * Serrucho 
-* Martillo pesado
+* Martillo pesado o masa
 * Cuerda: ~50 metros
 * Pala y pico
+* Destornillador
 
 #### Materiales 
 * Tirantes de 2x4 (sin cepillar): 60 metros [Ajustar y aclarar según terreno si hacen falta tirantes para apuntalar]
