@@ -22,11 +22,11 @@
 * Tornillos de madera de ~6cm: 80.
 
 #### Instrucciones
-1. Marcar primera esquina del dormi [Esquina este en nuestro caso]
+1. Marcar primera esquina del dormi
   1. Cortar una estaca de 2x4 a 80cm.
   2. Hacerle una punta con un serrucho para que se entierre más fácil.
   3. Ubicar la esquina del dormi que se encuentre más alta en el terreno. Si la diferencia en altura es poca, cualquier esquina sirve. 
-  4. Clavar la estaca dejando 50cm fuera de la tierra. Idealmente clavar las estacas usando una plomada.
+  4. Clavar la estaca dejando 50cm fuera de la tierra. Idealmente clavar las estacas usando una plomada o nivel.
   5. Medir y marcar en la estaca 40cm desde el suelo.
 2.  Marcar segunda esquina (a lo largo)
   1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto. Si hay mucho desnivel, lo ideal es medir con un nivel, levantando la cinta métrica hasta quede nivelada y bajar el punto con una plomada. 
