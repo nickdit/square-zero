@@ -17,7 +17,7 @@
 * Pala y pico
 
 #### Materiales 
-* Tirantes de 2x4 (sin cepillar): 60 metros
+* Tirantes de 2x4 (sin cepillar): 60 metros [Ajustar y aclarar según terreno si hacen falta tirantes para apuntalar]
 * Tablas de 1x6 (sin cepillar): 12 metros
 * Tornillos de madera de ~6cm: 80.
 
@@ -57,7 +57,7 @@
   1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares. 
   2. Extender cada una de las diagonales ~2 metros [=1.82m] hacia afuera de las 4 esquinas y  poner una estaca en cada punto.
   3. Medir desde esas nuevas esquinas, ~1.5 metro en paralelo a cada lado y poner otras estacas en cada punto. 
-  4. Apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas. Usar tornillos, no clavar para evitar mover de lugar las estacas.
+  4. Si el terreno es muy blando y las estacas no quedaron firmes, apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas. Usar tornillos, no clavar para evitar mover de lugar las estacas.
   5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
 10. Armar "eles" con tablas en cada una de las esquinas.
   1. Cortar 8 tablas de ~2 metros cada una
