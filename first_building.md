@@ -18,7 +18,7 @@
 
 #### Materiales 
 * Tirantes de 2x4 (sin cepillar): 60 metros [Ajustar y aclarar según terreno si hacen falta tirantes para apuntalar]
-* Tablas de 1x6 (sin cepillar): 12 metros
+* Tablas de 1x6 (sin cepillar): 14 metros
 * Tornillos de madera de ~6cm: 80.
 
 #### Instrucciones
