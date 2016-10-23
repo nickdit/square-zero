@@ -22,6 +22,10 @@
 * Tablas de 1x6 (sin cepillar): 14 metros
 * Tornillos de madera de ~6cm: 80.
 
+#### Duración
+* 5 horas de replanteo
+* 18 de nivelacion [calcular en proporción al desnivel y parametrizar]
+
 #### Instrucciones
 1. Marcar primera esquina del dormi
   1. Cortar una estaca de 2x4 a 80cm.
@@ -82,6 +86,10 @@
 #### Materiales
 Varillas de hierro de 8mm: 
 Varillas de hierro de 4mm:
+
+#### Duración
+* Pozos: 6 horas
+
 
 #### Instrucciones
 1. Pozos y zanjas
