@@ -24,7 +24,7 @@
 
 #### Duración
 * 5 horas de replanteo
-* 18 de nivelacion [calcular en proporción al desnivel y parametrizar]
+* 18 horas de nivelacion [calcular en proporción al desnivel y parametrizar]
 
 #### Instrucciones
 1. Marcar primera esquina del dormi
