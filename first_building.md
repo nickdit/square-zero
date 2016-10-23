@@ -88,7 +88,7 @@ Varillas de hierro de 8mm:
 Varillas de hierro de 4mm:
 
 #### Duración
-* Pozos: 6 horas
+* Pozos y zanjas: 13 horas
 
 
 #### Instrucciones
