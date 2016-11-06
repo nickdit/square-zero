@@ -91,7 +91,7 @@ Alambre de atar: [TODO]
 #### Duración
 * Pozos y zanjas: 13 horas
 * Encadenados: 36 horas
-* Canto rodado: (1+ horas
+* Canto rodado: (1+ ) horas
 
 
 #### Instrucciones
