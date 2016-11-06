@@ -24,7 +24,7 @@
 
 #### Duración
 * 5 horas de replanteo
-* 18 horas de nivelacion [calcular en proporción al desnivel y parametrizar]
+* 18 horas de nivelacion [TODO: calcular en proporción al desnivel y parametrizar]
 
 #### Instrucciones
 1. Marcar primera esquina del dormi
@@ -99,6 +99,7 @@ Varillas de hierro de 4mm:
   3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
   4. Cavar pozos de 60cm de profundidad en cada esquina.
   5. Rellenar el pozo con ~10cm de canto rodado y compactarlo.
+  6. Rellenar las zanjas con ~10cm de canto rodado y compactarlo.
 
 
 
