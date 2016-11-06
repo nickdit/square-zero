@@ -90,6 +90,7 @@ Alambre de atar: [TODO]
 
 #### Duración
 * Pozos y zanjas: 13 horas
+* Encadenados: 36 horas
 
 
 #### Instrucciones
@@ -103,7 +104,7 @@ Alambre de atar: [TODO]
   6. Rellenar las zanjas con ~10cm de canto rodado y compactarlo.
 2. Encadenados [TODO]
 3. Encofrado [TODO]
-4. Cemento 
+4. Cemento [TODO]
 
 
 
