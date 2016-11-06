@@ -98,7 +98,7 @@ Varillas de hierro de 4mm:
   3. Cavar una zanja de 10 cm de profundidad y 20 cm de ancho siguiendo las referencias de las cuerdas.
   3. En los centros de las esquinas (intersecciones de los ejes de las paredes), marcar cuadrados de 60cm x 60 cm.
   4. Cavar pozos de 60cm de profundidad en cada esquina.
-  5. Rellenar el pozo con ~10cm de canto rodado y compactarlo.
+  5. Rellenar el pozo con ~10cm de canto rodado y compactarlo. [TODO: link a como hacer una saranda y separar canto rodado]
   6. Rellenar las zanjas con ~10cm de canto rodado y compactarlo.
 
 
