@@ -82,6 +82,7 @@
 
 ### Cimientos
 #### Herramientas
+[TODO]
 
 #### Materiales
 Varillas de hierro de 8mm: 60m [TODO: restar lo que sobre]
