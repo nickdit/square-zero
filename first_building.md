@@ -101,6 +101,9 @@ Alambre de atar: [TODO]
   4. Cavar pozos de 60cm de profundidad en cada esquina.
   5. Rellenar el pozo con ~10cm de canto rodado y compactarlo. [TODO: link a como hacer una saranda y separar canto rodado]
   6. Rellenar las zanjas con ~10cm de canto rodado y compactarlo.
+2. Encadenados [TODO]
+3. Encofrado [TODO]
+4. Cemento 
 
 
 
