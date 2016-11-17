@@ -86,7 +86,7 @@
 
 #### Materiales
 Varillas de hierro de 8mm: 60m [TODO: restar lo que sobre]
-Varillas de hierro de 4mm: 60m [TODO: restar lo que sobre]
+Varillas de hierro de 4mm: 40m [TODO: restar lo que sobre]
 Alambre de atar: [TODO]
 
 #### Duración
