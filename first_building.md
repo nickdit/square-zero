@@ -93,7 +93,7 @@ Alambre de atar: [TODO]
 * Pozos y zanjas: 13 horas
 * Encadenados: 36 horas
 * Canto rodado: 4 horas
-* 
+* Mezcla a mano y colocación hormigón: 62 horas
 
 
 #### Instrucciones
