@@ -37,13 +37,13 @@
 1. Marcar primera esquina del dormi  
    1. Cortar una estaca de 2x4 a 80cm.  
    2. Hacerle una punta con un serrucho para que se entierre más fácil.  
-   3. Ubicar la esquina del dormi que se encuentre más alta en el terreno. Si la diferencia en altura es poca, cualquier esquina sirve.   
+   3. Ubicar la esquina del dormi que se encuentre más alta en el terreno. Si la diferencia en altura es poca, cualquier esquina sirve.  
    4. Clavar la estaca dejando 50cm fuera de la tierra. Idealmente clavar las estacas usando una plomada o nivel.  
    5. Medir y marcar en la estaca 40cm desde el suelo.
 
 2. Marcar segunda esquina \(a lo largo\)  
-   1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto. Si hay mucho desnivel, lo ideal es medir con un nivel, levantando la cinta métrica hasta quede nivelada y bajar el punto con una plomada.   
-   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.   
+   1. Medir 4.4 metros en la dirección en que se quiera orientar el dormi y marcar el nuevo punto. Si hay mucho desnivel, lo ideal es medir con un nivel, levantando la cinta métrica hasta quede nivelada y bajar el punto con una plomada.  
+   2. Preparar otra estaca de 2x4 con la longitud necesaria para que quede a una altura similar a la primera y unos 40 cm más para enterrar.  
    3. Enterrar la estaca.
 
 3. Pasar el nivel a la segunda estaca  
@@ -74,21 +74,21 @@
 8. Verificar la escuadra midiendo las diagonales. Ambas tienen que tener la misma medida. \[~5.25m\]
 
 9. Referencias exteriores  
-   1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares.   
+   1. Cortar 12 estacas más, por cada estaca interior, cortar 3 de medidas similares.  
    2. Extender cada una de las diagonales ~2 metros \[=1.82m\] hacia afuera de las 4 esquinas y  poner una estaca en cada punto.  
-   3. Medir desde esas nuevas esquinas, ~1.5 metro en paralelo a cada lado y poner otras estacas en cada punto.   
+   3. Medir desde esas nuevas esquinas, ~1.5 metro en paralelo a cada lado y poner otras estacas en cada punto.  
    4. Si el terreno es muy blando y las estacas no quedaron firmes, apuntalar en las dos direcciones hacia afuera cada una de los 12 estacas. Usar tornillos, no clavar para evitar mover de lugar las estacas.  
    5. Marcar el nivel de referencia en los postes de las esquinas exteriores.
 
 10. Armar "eles" con tablas en cada una de las esquinas.  
     1. Cortar 8 tablas de ~2 metros cada una  
-    2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia y que las estacas queden del lado exterior.   
+    2. Atornillar con un solo tornillo la tabla en uno de los extremos de forma tal que el borde superior coincida con el nivel de referencia y que las estacas queden del lado exterior.  
     3. Atornillar en el otro poste, verificando con un nivel.  
     4. Agregar un segundo tornillo en el primer poste.  
     5. Repetir con las otras 7 tablas.
 
 11. Cuerdas finales  
-    1. Ubicar nuevas cuerdas en las direcciones de cada lado entre las tablas opuestas exteriores. Estas cuerdas deben coincidir exactamente con las existentes de los interiores y cruzarse en las esquinas de los postes iniciales.   
+    1. Ubicar nuevas cuerdas en las direcciones de cada lado entre las tablas opuestas exteriores. Estas cuerdas deben coincidir exactamente con las existentes de los interiores y cruzarse en las esquinas de los postes iniciales.  
     2. Con un serrucho, hacer una muesca sobre el punto en cada tabla en que debe quedar la cuerda y atar.  
     3. En este momento se pueden sacar los postes interiores.
 
@@ -117,6 +117,7 @@ Alambre de atar: \[TODO\]
 * Encadenados: 36 horas
 * Canto rodado: 4 horas
 * Mezcla a mano y colocación hormigón: 62 horas
+* \(o mezcla con mezcladora y colocación: 24 horas\)
 
 #### Instrucciones
 
@@ -132,6 +133,7 @@ Alambre de atar: \[TODO\]
 2. Encadenados \[TODO\]
 
 3. Encofrado \[TODO\]
+
 4. Cemento \[TODO\]
 
 ### Bastidores
