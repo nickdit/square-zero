@@ -98,7 +98,6 @@
     3. Sacar primero la capa de suelo superior y separarla para la huerta.  
     4. Luego buscar los puntos intermedios que ya están a nivel y comenzar a nivelar hacia la parte más alta, tirando la tierra hacia fuera. No tirar la tierra hacia la parte más baja, dado que queremos que el encadenado apoye sobre suelo firme.
 
-
 ### Cimientos
 
 #### Herramientas
@@ -147,6 +146,26 @@ Materiales
 Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 
 \[TODO\]
+
+### Techo
+
+#### Herramientas
+
+\[TODO\]
+
+#### Materiales
+
+\[TODO\]
+
+#### Duración
+
+\[TODO\]
+
+#### Instrucciones
+
+1. Tener los materiales listos de TODO el techo antes de poner el machimbre. Si el machimbre se moja con las lluvias se deforma. 
+2. Revisar y corregir la plomada \(usando puntales\) de los bastidores antes de poner los cabios.
+3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma.
 
 ### Finding material
 
