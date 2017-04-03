@@ -167,16 +167,18 @@ Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 2. Revisar y corregir la plomada \(usando puntales\) de los bastidores antes de poner los cabios.
 3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma
 4. Instalar el machimbre de abajo hacia arriba \(hacia la cumbrera\), comenzando desde una escalera apoyada contra el borde del techo.
-5. 
+
 ### Relleno
 
 #### Herramientas
 
-\[TODO\]
+* Pala \(una para cada persona\)
+* 2 carretillas
 
 #### Materiales
 
-\[TODO\]
+* Un rollo u 8\[TODO: chequear equivalencia\] fardos de paja.
+* Arcilla. Sirve perfecto si está mezclada con un poco de arena o piedra. Idealmente hidratada.
 
 #### Duración
 
