@@ -168,7 +168,23 @@ Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma
 4. Instalar el machimbre de abajo hacia arriba \(hacia la cumbrera\), comenzando desde una escalera apoyada contra el borde del techo.
 5. 
+### Relleno
 
+#### Herramientas
+
+\[TODO\]
+
+#### Materiales
+
+\[TODO\]
+
+#### Duración
+
+\[TODO\]
+
+#### Instrucciones
+
+\[TODO\]
 
 ### Finding material
 
