@@ -137,11 +137,11 @@ Alambre de atar: \[TODO\]
 
 ### Bastidores
 
-Herramientas
+#### Herramientas
 
 \[TODO\]
 
-Materiales
+#### Materiales
 
 Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 
@@ -165,7 +165,10 @@ Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 
 1. Tener los materiales listos de TODO el techo antes de poner el machimbre. Si el machimbre se moja con las lluvias se deforma. 
 2. Revisar y corregir la plomada \(usando puntales\) de los bastidores antes de poner los cabios.
-3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma.
+3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma
+4. Instalar el machimbre de abajo hacia arriba \(hacia la cumbrera\), comenzando desde una escalera apoyada contra el borde del techo.
+5. 
+
 
 ### Finding material
 
