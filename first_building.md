@@ -147,7 +147,8 @@ Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 
 #### Materiales
 
-\[TODO\]
+* \[TODO\]
+* Tablas para cenefa: \[TODO\]
 
 #### Duración
 
@@ -157,8 +158,9 @@ Tirantes de \[Oregon\] en bruto 2\*4: \(30m + 60m + 40m - lo que sobre\)
 
 1. Tener los materiales listos de TODO el techo antes de poner el machimbre. Si el machimbre se moja con las lluvias se deforma. 
 2. Revisar y corregir la plomada \(usando puntales\) de los bastidores antes de poner los cabios.
-3. El machimbre viene en largos múltiplos de 0.305m: calcular el largo del techo cómo múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma
+3. Averiguar en qué largos vienen el machimbre \(en Argentina viene en largos múltiplos de 0.305m\): calcular el largo del techo como múltiplo del mismo número para reducir el desperdicio y separar los cabios centro-a-centro de la misma forma
 4. Instalar el machimbre de abajo hacia arriba \(hacia la cumbrera\), comenzando desde una escalera apoyada contra el borde del techo.
+5. Clavar las tablas de cenefa antes de poner la cubierta fina de techo, es más fácil hacerlo así. El borde superior debe estar al mismo nivel que la continuación de los cabios para que la cubierta \(chapa, tejas, pizarra\) pueda pasar por arriba y caer en la canaleta.
 
 ### Relleno
 
